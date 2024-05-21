@@ -17,13 +17,13 @@ Este proyecto es una aplicación de ejemplo que utiliza Spring Boot y Jersey par
 2. Compilar el Proyecto
 
 Desde el directorio raíz del proyecto, ejecuta:
-
+```bash
 mvn clean install
-
+```
 3. Ejecutar la Aplicación
-
+```bash
    java -jar target/apiRest-0.0.1-SNAPSHOT.jar
-
+```
 4. Acceder a la API
 
     Una vez que la aplicación esté en ejecución, puedes acceder a la API desde tu navegador o herramienta de cliente REST favorita. Aquí tienes algunos ejemplos de endpoints disponibles:
