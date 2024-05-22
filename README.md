@@ -1,7 +1,7 @@
 # API Rest con Spring Boot y Jersey
 
 Este proyecto es una aplicación de ejemplo que utiliza Spring Boot y Jersey para construir una API RESTful en Java.
-
+ 
 ## Requisitos
 
 - Java JDK 17 o superior
