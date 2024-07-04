@@ -4,7 +4,7 @@ Este proyecto es una aplicación de ejemplo que utiliza Spring Boot y Jersey par
  
 ## Requisitos 
 
-- Java JDK 17 o superior.
+- Java JDK 17 o superior. 
 - Apache Maven 3.6.3 o superior.
 
 ## Instrucciones de Uso
