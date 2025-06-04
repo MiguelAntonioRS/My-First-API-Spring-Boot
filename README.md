@@ -17,7 +17,7 @@ Este proyecto es una aplicación de ejemplo que utiliza Spring Boot y Jersey par
 2. Compilar el Proyecto
 
 Desde el directorio raíz del proyecto, ejecuta:
-```bash
+```bash 
 mvn clean install
 ```
 3. Ejecutar la Aplicación
