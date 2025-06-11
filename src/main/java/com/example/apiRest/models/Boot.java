@@ -3,6 +3,7 @@ package com.example.apiRest.models;
 public class Boot {
     private String name;
     private double value;
+    private String id;
 
     public Boot() {
     }
