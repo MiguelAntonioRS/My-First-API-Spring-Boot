@@ -14,7 +14,7 @@ Este proyecto es una aplicación de ejemplo que utiliza Spring Boot y Jersey par
    ```bash
    git clone https://github.com/MiguelAntonioRS/My-First-API-Spring-Boot.git
 
-2. Compilar el Proyecto 
+2. Compilar el Proyecto
 
 Desde el directorio raíz del proyecto, ejecuta:
 ```bash
